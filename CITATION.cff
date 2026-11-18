@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+
+message: "If you use this software, please cite the FGS-YOLO paper."
+
+title: "FGS-YOLO: A Multi-Stage Feature and Localization Optimization Network for Traffic Object Detection in Foggy Scenes"
+
+type: software
+
+authors:
+  - family-names: "Yang"
+    given-names: "Yongyan"
+
+version: "1.0.0"
+
+date-released: "2026-11-18"
+
+license: AGPL-3.0
+
+repository-code: "https://github.com/YYY-kami/FGS-YOLO"

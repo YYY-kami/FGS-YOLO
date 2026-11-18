@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.onnx
+*.engine
+*.cache
+.ipynb_checkpoints/
+.idea/
+.vscode/
+runs/
+datasets/
+wandb/
+dist/
+build/
+*.egg-info/

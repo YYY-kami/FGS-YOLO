@@ -1,0 +1,3 @@
+# Install PyTorch 2.1.2 with the CUDA build appropriate for your system first.
+-e .
+prettytable>=3.9
