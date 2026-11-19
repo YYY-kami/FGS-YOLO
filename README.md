@@ -57,7 +57,7 @@ python train.py --device 0 --seed 0 --name fgs_yolo_seed0
 ```
 
 The defaults reproduce the manuscript protocol: 640×640 input, 200 epochs,
-batch size 16, SGD, initial/final learning rates 0.01/0.0001, momentum 0.937,
+batch size 16, SGD, initial/final learning rates 0.01/0.001, momentum 0.937,
 weight decay 0.0005, seed 0, no pretrained weights and Focaler-PIoU2.
 
 Random-seed runs:
